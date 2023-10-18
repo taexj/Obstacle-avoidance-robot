@@ -1,6 +1,6 @@
 # Obstacle Avoidance Robot 
 
-![Obstacle Avoidance Robot](robot_image.jpg)
+![Obstacle Avoidance Robot](images/robot.PNG)
 
 
 ## Description
